@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 11th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Adam Powell
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This app was created to show the weather in any area and provide a 10 day forecast.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://adam266.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Apixu API is a free web service that provides weather data for weather apps.
+2. API Keys track and control how the API is being used.
+3. The JavaScript Console can give us an explantaion of the code.
